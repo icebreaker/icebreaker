@@ -2,6 +2,8 @@ Mihail Szabolcs
 ===============
 Senior Software Engineer, Open Source Evangelist, Renaissance Man.
 
-- [Twitter][1]
+- [mihail.co][1]
+- [Twitter][2]
 
-[1]: https://twitter.com/c0d3rguy
+[1]: https://mihail.co
+[2]: https://twitter.com/c0d3rguy
