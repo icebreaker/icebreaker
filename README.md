@@ -7,7 +7,7 @@ Senior Software Engineer, Open Source Evangelist, Renaissance Man.
 
 GitHub Contributions Snake
 --------------------------
-In order to play Snake in the `Contributions` matrix, to do the following:
+In order to play snake in the contributions matrix below, perform the following incantations:
 
 1. create a bookmarket with the code below
 2. click on it while on this page
