@@ -11,7 +11,7 @@ In order to play snake in the contributions matrix below, perform the following 
 
 1. create a bookmarket with the code below
 2. click on it while on this page
-3. scroll down the contributions matrix
+3. scroll down to the contributions matrix
 4. use the arrow keys to control the snake
 
 ```javascrupt
