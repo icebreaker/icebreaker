@@ -9,7 +9,7 @@ GitHub Contributions Snake
 --------------------------
 In order to play snake in the contributions matrix below, perform the following incantations:
 
-1. create a bookmarket with the code below
+1. create a bookmark with the code below
 2. click on it while on this page
 3. scroll down to the contributions matrix
 4. use the arrow keys to control the snake
